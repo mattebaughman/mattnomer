@@ -2,6 +2,6 @@
 
 Ideas:
 1. NEAT
-2. Optimal Nutrition
+<strike>2. Optimal Nutrition</strike>
 3. OpenWorm
 4. 
