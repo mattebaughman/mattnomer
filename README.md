@@ -4,4 +4,4 @@ Ideas:
 1. NEAT
 <strike>2. Optimal Nutrition</strike>
 3. OpenWorm
-4. 
+4. Multi-data-silo-learning - globus 
